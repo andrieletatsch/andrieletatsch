@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andrieletatsch
-- 👀 I’m interested in Business Analytics and Data Science
+- 👀 I’m interested in Data Analysis,  Business Intelligence, Microsoft Power BI, Microsoft Excel
 - 🌱 I’m currently learning Power BI, Excel 
-- 💞️ I’m looking to collaborate on Power BI
 - 📫 How to reach me andriele.tatsch@gmail.com
 - 😄 Pronouns: ...She
 - ⚡ Fun fact: I love read
