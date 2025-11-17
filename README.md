@@ -2,7 +2,7 @@
 
 I am a **Data Analyst** with a strong background in **Information Technology (IT)**.  
 
-For over 10 years, I worked as a **Business Analyst** in the Healthcare field. I learned how data can truly help people and improve operations. I am good at taking numbers and turning them into clear advice for smarter decisions.
+For over 10 years, I worked as a **Data Analyst** in the Healthcare field. I learned how data can truly help people and improve operations. I am good at taking numbers and turning them into clear advice for smarter decisions.
 
 Here I share my projects, learnings, and portfolio.
 
