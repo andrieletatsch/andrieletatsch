@@ -13,13 +13,12 @@ Here you will find:
 📫 **Contact:** [Email](mailto:andriele.tatsch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andrieletatsch)
 
 ## Skills & Tools
-- Advanced Excel
-- Power BI (DAX, Data Modeling, Dashboards)
-- Python (Learning – Data Analysis Focus)
-- SQL
-- Data Cleaning & Transformation
-- Business Intelligence
-
+![Excel](https://img.shields.io/badge/Advanced%20Excel-Data_Analysis-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-DAX%2C_Data_Modeling%2C_Dashboards-orange)
+![Python](https://img.shields.io/badge/Python-Learning_Data_Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-blueviolet)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-%26_Transformation-red)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-BI-yellow)
 
 
 ## Projects & Portfolio
