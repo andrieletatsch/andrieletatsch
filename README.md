@@ -1,25 +1,34 @@
-# Hi, I’m Andriele 👋
+# Hi, I’m Andriele 👋 | Data Analyst
 
-I am a **Data Analyst** with a strong background in **Information Technology (IT)**.  
+I am a **Data Analyst** with a strong background in Information Technology and over 10 years of experience working with data, systems, and analytics in the Healthcare industry.
+I specialize in transforming raw data into clear, actionable insights that support smarter business decisions.
 
-For over 10 years, I worked as a **Data Analyst** in the Healthcare field. I learned how data can truly help people and improve operations. I am good at taking numbers and turning them into clear advice for smarter decisions.
+Here you will find:
+- Data analysis projects
+- Interactive dashboards and reports
+- SQL and Python practice
+- Portfolio work and continuous learning
 
-Here I share my projects, learnings, and portfolio.
 
 📫 **Contact:** [Email](mailto:andriele.tatsch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andrieletatsch)
 
 ## Skills & Tools
 - Advanced Excel
-- Power BI
+- Power BI (DAX, Data Modeling, Dashboards)
+- Python (Learning – Data Analysis Focus)
 - SQL
+- Data Cleaning & Transformation
+- Business Intelligence
+
+
 
 ## Projects & Portfolio
+ - 🐍 Python Practice Repository: https://github.com/andrieletatsch/python-practice
+ - 📊 Data-Driven Decisions: Sales Analysis to Maximize Results [Data-Driven Decisions: Sales Analysis to Maximize Results](https://www.linkedin.com/pulse/decis%25C3%25B5es-baseadas-em-dados-an%25C3%25A1lise-de-vendas-para-maximizar-tatsch-8sy1c/?trackingId=BCcw1btfSgGR3EYsGgDpIg%3D%3D)
+ - 🏗 Purchasing Analysis Dashboard – Civil Construction Industry [Purchasing Analysis Dashboard of a Civil Construction Company](https://app.powerbi.com/view?r=eyJrIjoiMjhhOGFmNmUtMTgyZC00NmJkLWFiMDEtODI4YmUxMDI0ZjM4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9)
+ - 🚦 Traffic Accidents Analysis in Brazil (Jan–Apr 2024) [Analysis of Traffic Accidents in Brazil - January to April 2024](https://app.powerbi.com/view?r=eyJrIjoiNTkyYjA5NTYtODE2YS00MzY3LTkwZGQtMzM4M2RmZTlhYTU4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9)
 - [GitHub Portfolio](https://andrieletatsch.github.io) (Under Construction)
-- [Google Sites Portfolio](https://sites.google.com/view/andrieletatsch/home)
-- [Data-Driven Decisions: Sales Analysis to Maximize Results](https://www.linkedin.com/pulse/decis%25C3%25B5es-baseadas-em-dados-an%25C3%25A1lise-de-vendas-para-maximizar-tatsch-8sy1c/?trackingId=BCcw1btfSgGR3EYsGgDpIg%3D%3D)
-- [Purchasing Analysis Dashboard of a Civil Construction Company](https://app.powerbi.com/view?r=eyJrIjoiMjhhOGFmNmUtMTgyZC00NmJkLWFiMDEtODI4YmUxMDI0ZjM4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9)
-- [Analysis of Traffic Accidents in Brazil - January to April 2024](https://app.powerbi.com/view?r=eyJrIjoiNTkyYjA5NTYtODE2YS00MzY3LTkwZGQtMzM4M2RmZTlhYTU4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9)
-
+-- 🌐 Google Sites Portfolio [Google Sites Portfolio](https://sites.google.com/view/andrieletatsch/home)
 
 <!---
 andrieletatsch/andrieletatsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
