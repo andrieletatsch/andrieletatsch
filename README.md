@@ -36,19 +36,25 @@ Here you will find:
 
 ### Power BI Dashboards 
 
-- 📊 <strong>BFLubs 2022 Sales Performance Analysis</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTBjYjVmZTYtYjk3Yi00NjM4LTk2ZTktMGZiMzY3MWQ2Nzc5IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Report</a>  
+- 📊 <strong>BFLubs 2022 Sales Performance Analysis</strong> [Open GitHub Repository](https://github.com/andrieletatsch/powerbi-Sales-2022-bflubs-analysis)
+- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTBjYjVmZTYtYjk3Yi00NjM4LTk2ZTktMGZiMzY3MWQ2Nzc5IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>
+-  [Open Artigo Linkedin](https://www.linkedin.com/pulse/bflubs-2022-sales-executive-dashboard-annual-analysis-tatsch-9uhac/) 
   <br/><img width="500" src="https://github.com/user-attachments/assets/331e4aac-8d54-4e20-b83a-b0c117b53b60" alt="BFLubs 2022" />
 
-- 📊 <strong>Sales Performance & Delivery Risk</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZGM3N2NjZmEtZThmMy00NjY4LTg4MjgtOWUyNDExOGYxZDY2IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Report</a>  
+- 📊 <strong>Sales Performance & Delivery Risk</strong>  [Open GitHub Repository](https://github.com/andrieletatsch/powerbi-Sales-2019-2022-bflubs-analysis)
+- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZGM3N2NjZmEtZThmMy00NjY4LTg4MjgtOWUyNDExOGYxZDY2IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>
+-  [Open Artigo Linkedin](https://www.linkedin.com/pulse/sales-performance-delivery-risk-integrating-logistics-tatsch-xtfkc/) 
   <br/><img width="500" src="https://github.com/user-attachments/assets/5f3d794f-d3f1-48d2-bfb9-24b035428503" alt="Executive Overview pagina 1" />
 
-- 📊 <strong>Data-Driven Decisions: Sales Analysis to Maximize Results</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTg3ODMwNGUtZWEyMy00MDA3LWIwMDYtZWRjYzRlZWFlMDA1IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Report</a>  
+- 📊 <strong>Data-Driven Decisions: Sales Analysis to Maximize Results</strong> [Open Artigo Linkedin](https://www.linkedin.com/pulse/decis%25C3%25B5es-baseadas-em-dados-an%25C3%25A1lise-de-vendas-para-maximizar-tatsch-8sy1c/?trackingId=h6DCsvNpRBi82dH9WtNjDg%3D%3D)
+- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTg3ODMwNGUtZWEyMy00MDA3LWIwMDYtZWRjYzRlZWFlMDA1IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>  
   <br/><img width="500" src="https://github.com/user-attachments/assets/afc2388d-ff12-421f-9453-9338ca8dc0a3" alt="Slide 3" />
 
-- 📊 <strong>Purchasing Analysis Dashboard – Civil Construction Industry</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjhhOGFmNmUtMTgyZC00NmJkLWFiMDEtODI4YmUxMDI0ZjM4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Report</a>  
+- 📊 <strong>Purchasing Analysis Dashboard – Civil Construction Industry</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjhhOGFmNmUtMTgyZC00NmJkLWFiMDEtODI4YmUxMDI0ZjM4IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>  
   <br/><img width="500" src="https://github.com/user-attachments/assets/97c466d8-4da5-48af-9742-4b9c0973171b" alt="Slide 4" />
 
-- 📊 <strong>Traffic Accidents Analysis in Brazil (Jan–Dec 2024)</strong> 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTliZjA3Y2EtZWZkZS00MjY5LWIxMDItZDdiOGVmOTcyYWY1IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Report</a>  
+- 📊 <strong>Traffic Accidents Analysis in Brazil (Jan–Dec 2024)</strong> [Open GitHub Repository](https://github.com/andrieletatsch/powerbi-traffic-accidents-analysis)
+- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTliZjA3Y2EtZWZkZS00MjY5LWIxMDItZDdiOGVmOTcyYWY1IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>  
   <br/><img width="500" src="https://github.com/user-attachments/assets/9922f778-158a-4e01-a625-c1cea4ed2d38" alt="Slide 5" />
 
 
