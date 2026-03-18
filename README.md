@@ -37,7 +37,7 @@ Here you will find:
 ### Power BI Dashboards 
 
 - 📊 <strong>BFLubs 2022 Sales Performance Analysis</strong> [Open GitHub Repository](https://github.com/andrieletatsch/powerbi-Sales-2022-bflubs-analysis)
-- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiYTBjYjVmZTYtYjk3Yi00NjM4LTk2ZTktMGZiMzY3MWQ2Nzc5IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>
+- 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWFjNDViMmEtOThlYy00OTUxLWFiMDMtODc2YjdkZmFhNDg3IiwidCI6ImJlMzIyOTBmLTRkNTgtNGY1Yy05ODY2LWJiZmQxNzMwZGU3OCIsImMiOjN9" target="_blank">Open Interactive Dashboard Report</a>
 -  [Open Artigo Linkedin](https://www.linkedin.com/pulse/bflubs-2022-sales-executive-dashboard-annual-analysis-tatsch-9uhac/) 
   <br/><img width="500" src="https://github.com/user-attachments/assets/331e4aac-8d54-4e20-b83a-b0c117b53b60" alt="BFLubs 2022" />
 
